@@ -1,0 +1,64 @@
+body{
+    margin: auto;
+    width:auto;
+    box-sizing: auto;
+    background-image:url(/images/best-keycaps-scaled.jpeg);
+    background-size: cover;
+    background-position:900%;
+}
+h1{margin-left:auto;
+   margin-right:auto;
+   width:50%; 
+   border-style: solid;
+   border-color:rgb(255, 0, 0);
+   text-align: center;
+   padding: 20px;
+   background-color: black;
+   color: rgb(255, 255, 255);
+   border-radius: 9px;
+   border-width: 4px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div img{
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 9px;
+    margin-left: 13%;
+    margin-top: 4%;
+    cursor: pointer;
+    box-shadow: 0 5px 25px rgb(179, 24, 24);
+}
+h2{
+    margin-left:auto;
+   margin-right:auto;
+   margin-top: 5%;
+   width:50%; 
+   border-style: solid;
+   border-color:rgb(255, 0, 0);
+   text-align: center;
+   padding: 20px;
+   background-color: black;
+   color: #ffffff;
+   border-radius: 9px;
+   border-width: 4px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.two{
+    border-radius:20px;
+    border-color: rgb(255, 255, 255);
+}
+.there{
+    color: #ffffff;
+    margin-left: 30%;
+    margin-top: 10%;
+    font-size: 5rem;
+}
+.four{color: #ffffff;
+    margin-left:25%;
+    margin-top: 10%;
+    font-size: 5rem;
+}
+
+
+
+
